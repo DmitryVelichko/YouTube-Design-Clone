@@ -1,2 +1,2 @@
 # YouTube-Design-Clone
-YouTube Design Clone (HTML + CSS)
+YouTube main page design clone (HTML + CSS)
